@@ -19,6 +19,12 @@ From this repo, You'll get to know about :
 2- Structural
 3- Behavioral
 
+SOLID design pattern:
+S - ingle Responsibility Principle
+O - pen/Closed Principle
+L - iskov Substitution Principle
+I - nterface Segregation Principle
+D - ependency Inversion
 
 Different type of Creational Design Patterns:
 - Builder
