@@ -3,7 +3,7 @@
 // As software gets more complex, if we don’t follow this principle, then our code will break a lot.
 
 class ClassA {
-}
+} 
 class ClassB {
 }
 class ClassC {
