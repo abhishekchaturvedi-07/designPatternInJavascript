@@ -4,7 +4,7 @@
 
 class ClassA {
 } 
-class ClassB {
+class ClassB { 
 }
 class ClassC {
 }
