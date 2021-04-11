@@ -18,3 +18,31 @@ From this repo, You'll get to know about :
 1- Creational
 2- Structural
 3- Behavioral
+
+
+Different type of Creational Design Patterns:
+- Builder
+- Factories : Abstract Factory | Factory Method
+- Prototype
+- Singleton
+
+Different type of Structral Design Patterns:
+- Adapter
+- Bridge
+- Composite
+- Decorator
+- Facade
+- Flyweight
+- Proxy
+
+Different type of Behavioral Design Patterns:
+- Chain of Responsibility
+- Command
+- Interpretor
+- Mediator
+- Momento
+- Observer
+- State
+- Strategy
+- Template Method
+- Visitor 
