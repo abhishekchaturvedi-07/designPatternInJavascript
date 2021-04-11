@@ -12,7 +12,9 @@ What?
 -Scalable as they usually structured and have rules that you should follow
 -Reusable for similar problems
 
-Categories?
--Creational
--Structural
--Behavioral
+From this repo, You'll get to know about :
+- SOLID Design Pattern and 
+- Categories?
+1- Creational
+2- Structural
+3- Behavioral
