@@ -1,5 +1,7 @@
 Why?
 -Basic building block for maintainable software application
+-Tried and tested solution to common problem, which also saves time!
+-Language Neutrals
 -Guide for novice developers looking to improve their coding skills
 
 What?
